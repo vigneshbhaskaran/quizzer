@@ -38,7 +38,7 @@ class _ScreenState extends State<Screen> {
  
 
   List<Question> questionlist=[
-    Question(q: 'elephant is mammal', a: false),
+    Question(q: 'dhni is the fastestr runner', a: false),
      Question(q: 'fish live on land', a: false),
  Question(q: 'frogs are cheaters', a: true),
   Question(q: 'cockrach are good', a: false),
