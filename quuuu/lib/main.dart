@@ -41,7 +41,7 @@ class _ScreenState extends State<Screen> {
     Question(q: 'dhni is the fastestr runner', a: false),
      Question(q: 'fish live on land', a: false),
  Question(q: 'frogs are cheaters', a: true),
-  Question(q: 'cockrach are good', a: false),
+  Question(q: 'fims are boring', a: false),
    Question(q: 'sachin is a batter', a: true)
 
   ];
